@@ -1,0 +1,2 @@
+wget -P datasets/jcommonsenseqa-v1.1 https://raw.githubusercontent.com/yahoojapan/JGLUE/main/datasets/jcommonsenseqa-v1.1/train-v1.1.json
+wget -P datasets/jcommonsenseqa-v1.1 https://raw.githubusercontent.com/yahoojapan/JGLUE/main/datasets/jcommonsenseqa-v1.1/valid-v1.1.json
